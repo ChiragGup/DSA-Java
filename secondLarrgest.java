@@ -1,4 +1,4 @@
-class secondLarrgest {
+public class secondLarrgest {
     public static void main(String[] args) {
 
         int[] arr = {2, 5, 6, 8, 8, 9, 9};
